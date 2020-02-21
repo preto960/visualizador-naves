@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/visualizador-naves/static/css/main.9dfc29e6.chunk.css",
+    "main.css": "/visualizador-naves/static/css/main.a51a3d68.chunk.css",
     "main.js": "/visualizador-naves/static/js/main.937e42fa.chunk.js",
     "main.js.map": "/visualizador-naves/static/js/main.937e42fa.chunk.js.map",
     "runtime-main.js": "/visualizador-naves/static/js/runtime-main.8d04ef6e.js",
@@ -8,16 +8,16 @@
     "static/js/2.aa7f989c.chunk.js": "/visualizador-naves/static/js/2.aa7f989c.chunk.js",
     "static/js/2.aa7f989c.chunk.js.map": "/visualizador-naves/static/js/2.aa7f989c.chunk.js.map",
     "index.html": "/visualizador-naves/index.html",
-    "precache-manifest.b48405863c7545d8b77064ab20bfd9ea.js": "/visualizador-naves/precache-manifest.b48405863c7545d8b77064ab20bfd9ea.js",
+    "precache-manifest.71beedf97d12a893833c2e666554533c.js": "/visualizador-naves/precache-manifest.71beedf97d12a893833c2e666554533c.js",
     "service-worker.js": "/visualizador-naves/service-worker.js",
-    "static/css/main.9dfc29e6.chunk.css.map": "/visualizador-naves/static/css/main.9dfc29e6.chunk.css.map",
+    "static/css/main.a51a3d68.chunk.css.map": "/visualizador-naves/static/css/main.a51a3d68.chunk.css.map",
     "static/js/2.aa7f989c.chunk.js.LICENSE.txt": "/visualizador-naves/static/js/2.aa7f989c.chunk.js.LICENSE.txt",
     "static/media/Style.css": "/visualizador-naves/static/media/image1.6c49315c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8d04ef6e.js",
     "static/js/2.aa7f989c.chunk.js",
-    "static/css/main.9dfc29e6.chunk.css",
+    "static/css/main.a51a3d68.chunk.css",
     "static/js/main.937e42fa.chunk.js"
   ]
 }
